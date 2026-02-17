@@ -1,5 +1,12 @@
 {
   "android": {
     "package": "com.rafetferit.trendkodapp"
-  }
+  },
+  "extra": {
+    "eas": {
+      "projectId": "a06519f1-e300-4912-ae8f-38605f4a4c8a"
+    }
+  },
+  "owner": "rafetferit",
+  "slug": "trendkodApp"
 }
