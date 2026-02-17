@@ -16,5 +16,8 @@
   "scripts": {
     "android": "expo run:android",
     "ios": "expo run:ios"
+  },
+  "devDependencies": {
+    "expo-dev-client": "^6.0.20"
   }
 }
