@@ -8,5 +8,8 @@
     }
   },
   "owner": "rafetferit",
-  "slug": "trendkodApp"
+  "slug": "trendkodApp",
+  "plugins": [
+    "expo-build-properties"
+  ]
 }
